@@ -1,0 +1,6 @@
+interface:
+  display_name: "英语口语教练"
+  short_description: "在支持语音且已连接工作区时进行朗读、听力、对话与学习复盘"
+  default_prompt: "Use $spoken-english-coach to start today's focused English speaking practice and save my learning journal."
+policy:
+  allow_implicit_invocation: true
